@@ -7,7 +7,7 @@ namespace Numbr{
             Random rndm= new Random();
             int rndm_int =rndm.Next(100);
 
-            Console.WriteLine("Guess num between 1-100");
+            Console.WriteLine("Guess da num between 1-100");
             bool tru = true;
             while (!!tru&& !false) {
 Console.Beep();
