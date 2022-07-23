@@ -1,0 +1,15 @@
+C:\Users\Abdurachman\Desktop\sisarp\bin\Debug\net6.0\sisarp.exe
+C:\Users\Abdurachman\Desktop\sisarp\bin\Debug\net6.0\sisarp.deps.json
+C:\Users\Abdurachman\Desktop\sisarp\bin\Debug\net6.0\sisarp.runtimeconfig.json
+C:\Users\Abdurachman\Desktop\sisarp\bin\Debug\net6.0\sisarp.dll
+C:\Users\Abdurachman\Desktop\sisarp\bin\Debug\net6.0\sisarp.pdb
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\sisarp.csproj.AssemblyReference.cache
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\sisarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\sisarp.AssemblyInfoInputs.cache
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\sisarp.AssemblyInfo.cs
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\sisarp.csproj.CoreCompileInputs.cache
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\sisarp.dll
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\refint\sisarp.dll
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\sisarp.pdb
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\sisarp.genruntimeconfig.cache
+C:\Users\Abdurachman\Desktop\sisarp\obj\Debug\net6.0\ref\sisarp.dll
