@@ -15,18 +15,20 @@ Console.Beep();
                 string guess=Console.ReadLine();
                 if (Convert.ToInt32(guess)==rndm_int){         
                     Console.WriteLine("Du hast gebonnen");
+                        Console.Beep();
+                Console.Beep();
                     break;                      // bweak if num == is right numm
 
                                                                                     //hi
                 } // end if-loop
                     if (Convert.ToInt32(guess)<rndm_int){//if loop
                     Console.WriteLine("Du hast zu klein");
-                }                                           // end if-loop
-            if (Convert.ToInt32(guess)>rndm_int){                                   //if loop
+                }// end if-loop
+            if(Convert.ToInt32(guess)>rndm_int){                                   //if loop
                     Console.WriteLine("Du hast zu groß");
-                }           // end if-loop
+                }
             }
-            Console.WriteLine("");
+            Console.WriteLine("Bye");
         } 
     }
 }
